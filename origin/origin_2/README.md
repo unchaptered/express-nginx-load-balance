@@ -1,7 +1,7 @@
 # Express-Nginx-Https
 
 > - 클론 원본 저장소 : [unchaptered/express-nginx](https://github.com/unchaptered/express-nginx)
-> - 클론 원본 README : [unchaptered/express-nginx/README.md](./origin/README.md)
+> - 클론 원본 README : [unchaptered/express-nginx/README.md](../origin_1/README.md)
 
 본 프로젝트는 `2022-08-05` 에 Nginx 를 사용한 Reversy Proxy Server 에서 시작된 프로젝트입니다.
 
