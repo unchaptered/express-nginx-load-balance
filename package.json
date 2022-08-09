@@ -1,0 +1,26 @@
+{
+  "name": "express-nginx-load-balance",
+  "version": "1.0.0",
+  "description": "> - 클론 원본(1) 저장소 : [unchaptered/express-nginx](https://github.com/unchaptered/express-nginx)\r > - 클론 원본(1) README : [unchaptered/express-nginx/README.md](./origin/origin_1/README.md)\r > - 클론 원본(2) 저장소 : [unchaptered/express-nginx-https](https://github.com/unchaptered/express-nginx-load-balance)\r > - 클론 원본(2) README : [unchaptered/express-nginx-https/README.md](./origin/origin_2/README.md)",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchaptered/express-nginx-load-balance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unchaptered/express-nginx-load-balance/issues"
+  },
+  "homepage": "https://github.com/unchaptered/express-nginx-load-balance#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
