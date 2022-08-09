@@ -14,6 +14,8 @@
 
 3001 ~ 3004 까지 실행 될 Express 앱은 PM2 를 이용 할 생각입니다.
 
+![](./https.png)
+
 ### 주요 사항
 
 1. `/etc/nginx/sites-availalbe/default` 삭제
