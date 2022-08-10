@@ -14,6 +14,14 @@
 
 3001 ~ 3004 까지 실행 될 Express 앱은 PM2 를 이용 할 생각입니다.
 
+<p align="center"><image src="./Logic.png" style="width: 600px"/></p>
+
+### 결과
+
+1. Nginx 가 80 번 포트에서 listen 한 후 433 포트로 전달
+2. Nginx 가 443 번 포트에서 listen 한 후 TSL/SSL 암/복호화를 담당하며 3000, 3001 번 포트로 Load Balancing 실행
+3. http(Express) 가 3001, 3002 포트에서 실행
+
 ![](./https.png)
 
 ### 주요 사항
